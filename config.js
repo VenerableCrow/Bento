@@ -174,7 +174,7 @@ const CONFIG = {
 				},
 				{
 					name: 'Anime',
-					link: 'https://animixplay.to/',
+					link: 'https://aniwave.to/home',
 				},
 			],
 		},
